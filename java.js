@@ -1,4 +1,5 @@
 alert ('Welcome!');
+confirm("lets start");
  var x = prompt('Enter your major'); 
  var proceed = true;
   
