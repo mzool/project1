@@ -1,0 +1,28 @@
+#civil { 
+     display: inline-block;
+     border: 3px solid black;
+}
+#ch {
+display:inline-block ;
+border: 3px solid black;
+}
+header{
+background-color: rgb(219, 166, 166);
+}
+.li{
+display: inline-block;
+border: 3px solid black;
+}
+.lit{
+    display: inline-block;
+border: 3px solid black;
+}
+.lis{
+    display: inline-block;
+border: 3px solid black;
+}
+.liste{
+
+    display: inline-block;
+    border: 3px solid black;  
+}
